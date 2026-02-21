@@ -53,3 +53,9 @@ Refactoring from DOM-based to state-based architecture
 ## Live Demo
 
 https://saurabh-js-todo-app.netlify.app/
+
+
+👨‍💻 Author
+Saurabh Singh B.Tech CSE (AI & ML) — Web Development | UI/UX | Robotics
+
+⭐ If you like this project, consider giving it a star!
