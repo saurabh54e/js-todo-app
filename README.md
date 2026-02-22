@@ -52,7 +52,7 @@ Refactoring from DOM-based to state-based architecture
 
 ## Live Demo
 
-https://saurabh-js-todo-app.netlify.app/
+https://saurabh54e.github.io/js-todo-app/
 
 
 👨‍💻 Author
