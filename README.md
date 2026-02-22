@@ -52,7 +52,7 @@ Refactoring from DOM-based to state-based architecture
 
 ## Live Demo
 
-https://saurabh54e.github.io/js-todo-app/
+https://saurabh54e.github.io/js-day02-todo-app/
 
 
 👨‍💻 Author
